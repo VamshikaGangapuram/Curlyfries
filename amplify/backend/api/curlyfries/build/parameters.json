@@ -1,0 +1,7 @@
+{
+    "AppSyncApiName": "curlyfries",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-amplify1b759633f9784-staging-220933-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/7439c845fb21aee4be22838bc2c7796b0577a17a"
+}
